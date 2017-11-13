@@ -1,0 +1,734 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Continuous.WindowsService</name>
+    </assembly>
+    <members>
+        <member name="T:Continuous.WindowsService.Model.Enums.WindowsServiceErrorControl">
+            <summary>
+            Specifies error severity and the action taken if this service fails to start
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceErrorControl.Ignore">
+            <summary>
+            The startup program logs the error but continues the startup operation
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceErrorControl.Normal">
+            <summary>
+            The startup program logs the error and displays a message but continues the startup operation.
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceErrorControl.Severe">
+            <summary>
+            The startup program logs the error. If the "last known good" configuration is started, the startup operation continues.
+            Otherwise, the system is restarted with the "last known good" configuration
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceErrorControl.Critical">
+            <summary>
+            The startup program logs the error, if possible. If the "last known good" configuration is started, the system startup is cancelled. 
+            Otherwise, the system is restarted with the "last known good" configuration.
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceErrorControl.Unknown">
+            <summary>
+            error control is unknown
+            </summary>
+        </member>
+        <member name="T:Continuous.WindowsService.Model.Enums.WindowsServiceStartMode">
+            <summary>
+            Windows service start mode
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceStartMode.Boot">
+            <summary>
+            Device driver will start by the operating system loader. This value is valid only for driver services
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceStartMode.System">
+            <summary>
+            Device driver will start by the operating system initialization process. This value is valid only for driver services
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceStartMode.Automatic">
+            <summary>
+            Service will start automatically during system startup.
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceStartMode.Manual">
+            <summary>
+            Service will start when a process calls the StartService method.
+            </summary>
+            <seealso cref="M:Continuous.WindowsService.Shell.IWindowsServiceShell.Start(System.String)"/>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceStartMode.Disabled">
+            <summary>
+            Indicates that the service is disabled, so that it cannot be started by a user or application.
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceStartMode.AutomaticDelayedStart">
+            <summary>
+            Service will start automatically with short delay after system startup 
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceStartMode.Unknown">
+            <summary>
+            Unknown service start mode
+            </summary>
+        </member>
+        <member name="T:Continuous.WindowsService.Model.Enums.WindowsServiceState">
+            <summary>
+            Current state of the base service.
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceState.Stopped">
+            <summary>
+            Service has stopped
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceState.StartPending">
+            <summary>
+            Service is executing start command
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceState.StopPending">
+            <summary>
+            Service is executing stop command
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceState.Running">
+            <summary>
+            Service is running
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceState.ContinuePending">
+            <summary>
+            Service is executing continue command
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceState.PausePending">
+            <summary>
+            Service is executing pause command
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceState.Paused">
+            <summary>
+            Service has paused
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceState.Unknown">
+            <summary>
+            Unable to determine in which state is service
+            </summary>
+        </member>
+        <member name="T:Continuous.WindowsService.Model.Enums.WindowsServiceStatus">
+            <summary>
+            Current status of the object. Should be 'Ok' or one of the other statuses
+            </summary>
+        </member>
+        <member name="T:Continuous.WindowsService.Model.Enums.WindowsServiceType">
+            <summary>
+            Windows service running process type
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceType.KernelDriver">
+            <summary>
+            Kernel device driver such as a hard disk or other low-level hardware device driver
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceType.FileSystemDriver">
+            <summary>
+            file system driver, which is also a Kernel device driver
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceType.Adapter">
+            <summary>
+            service for a hardware device that requires its own driver
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceType.RecognizerDriver">
+            <summary>
+            file system driver used during startup to determine the file systems present on the system.
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceType.OwnProcess">
+            <summary>
+             service runs in a process by itself
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceType.ShareProcess">
+            <summary>
+            service that shares a process with one or more other services
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceType.InteractiveProcess">
+            <summary>
+            service that can communicate with the desktop
+            </summary>
+        </member>
+        <member name="F:Continuous.WindowsService.Model.Enums.WindowsServiceType.Unknown">
+            <summary>
+            Unknown service type
+            </summary>
+        </member>
+        <member name="T:Continuous.WindowsService.Model.WindowsServiceConfiguration">
+            <summary>
+            Model using to creating new windows service
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceConfiguration.Name">
+            <summary>
+            Name of the service to install (max 256 characters)
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceConfiguration.AccountName">
+            <summary>
+            Account name under which the service runs.
+            LocalSystem as default
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceConfiguration.AccountDomain">
+            <summary>
+            Account domain. Local domain as default
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceConfiguration.AccountPassword">
+            <summary>
+            Account password
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceConfiguration.DriverName">
+            <summary>
+            Driver object name for kernel and system-level drivers
+            Otherwise can be NULL
+            </summary>
+        </member>
+        <member name="T:Continuous.WindowsService.Model.WindowsServiceConfigurationForUpdate">
+            <summary>
+            Model using for update existing windows service
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceConfigurationForUpdate.DisplayName">
+            <summary>
+            Display name of the service. (max 256 characters)
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceConfigurationForUpdate.Description">
+            <summary>
+            Description of windows service
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceConfigurationForUpdate.Path">
+            <summary>
+            Fully qualified path to the service binary file
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceConfigurationForUpdate.Type">
+            <summary>
+            Type of process which will be invoking this service. OwnProcess as default
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceConfigurationForUpdate.ErrorControl">
+            <summary>
+            Severity of the error if the Create method fails to start. 
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceConfigurationForUpdate.StartMode">
+            <summary>
+            Start mode of the Windows base service. Auto as default.
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceConfigurationForUpdate.InteractWithDesktop">
+            <summary>
+            If true, the service can create or communicate with windows on the desktop. False as default;
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceConfigurationForUpdate.ServiceDependencies">
+            <summary>
+            List of services names that must start before this service will start 
+            </summary>
+        </member>
+        <member name="T:Continuous.WindowsService.Model.WindowsServiceInfo">
+            <summary>
+            Base information about windows service
+            </summary>
+        </member>
+        <member name="M:Continuous.WindowsService.Model.WindowsServiceInfo.#ctor">
+            <summary>
+            Create empty instance
+            </summary>
+        </member>
+        <member name="M:Continuous.WindowsService.Model.WindowsServiceInfo.#ctor(System.String)">
+            <summary>
+            Create instance with existing service data. Throw exception if service not found
+            </summary>
+            <param name="serviceName">Existing windows service name</param>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.Name">
+            <summary>
+            Service name
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.DisplayName">
+            <summary>
+            Service display name
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.AccountName">
+            <summary>
+            Account name - LocalSystem as default
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.AccountDomain">
+            <summary>
+            Account domain - '.' as local domain
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.Description">
+            <summary>
+            Service description
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.ProcessId">
+            <summary>
+            Id of process using by this service
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.Status">
+            <summary>
+            Windows service status
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.StartMode">
+            <summary>
+            Service start mode
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.Type">
+            <summary>
+            Type of the process responsible for running this service
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.State">
+            <summary>
+            Current state of this service
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.ErrorControl">
+            <summary>
+            Serverity of the error throwed in service installation process
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.InteractWithDesktop">
+            <summary>
+            Determines if service can interact with desktop
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.Path">
+            <summary>
+            Fully qualified path to the service binary file
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.ExitCode">
+            <summary>
+            System Error Code, if equals to 1066,
+            the value of exit code is in ServiceSpecificExitCode property
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.ServiceSpecificExitCode">
+            <summary>
+            Custom exit code from service
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.CanStop">
+            <summary>
+            Determines if service can be stopped now
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.CanPause">
+            <summary>
+            Determines if service can be paused now
+            </summary>
+        </member>
+        <member name="P:Continuous.WindowsService.Model.WindowsServiceInfo.ServiceDependencies">
+            <summary>
+            List of services names that must start before this service will start
+            </summary>
+        </member>
+        <member name="T:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfo.IWindowsServiceInfoUpdate">
+            <summary>
+            Fast updating windows service info properties directly from class
+            </summary>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfo.IWindowsServiceInfoUpdate.Path(System.String)">
+            <summary>
+            Fully qualified path to the service binary file
+            <param name="newPath">new path</param>
+            </summary>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfo.IWindowsServiceInfoUpdate.Description(System.String)">
+            <summary>
+            Description of the service. 
+            </summary>
+            <param name="newDescription">new description</param>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfo.IWindowsServiceInfoUpdate.DisplayName(System.String)">
+            <summary>
+            Display name of the service (max 256 characters).
+            </summary>
+            <param name="newName">new display name</param>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfo.IWindowsServiceInfoUpdate.AccountName(System.String)">
+            <summary>
+            Account name used to run this service.
+            </summary>
+            <param name="newName">new account name</param>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfo.IWindowsServiceInfoUpdate.AccountDomain(System.String)">
+            <summary>
+            Account domain used to run this service.
+            </summary>
+            <param name="newDomain">new domain</param>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfo.IWindowsServiceInfoUpdate.AccountPassword(System.String)">
+            <summary>
+            Account password used to run this service. Can't rollback this property.
+            </summary>
+            <param name="newPassword">new account password</param>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfo.IWindowsServiceInfoUpdate.Type(Continuous.WindowsService.Model.Enums.WindowsServiceType)">
+            <summary>
+            Type of process which will be invoking this service.
+            <param name="newType">new windows service type</param>
+            </summary>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfo.IWindowsServiceInfoUpdate.ErrorControl(Continuous.WindowsService.Model.Enums.WindowsServiceErrorControl)">
+            <summary>
+            Severity of the error if the Create method fails to start.
+            <param name="newErrorControl">new error control</param> 
+            </summary>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfo.IWindowsServiceInfoUpdate.StartMode(Continuous.WindowsService.Model.Enums.WindowsServiceStartMode)">
+            <summary>
+            Start mode of the Windows base service
+            <param name="newStartMode">new start mode</param>
+            </summary>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfo.IWindowsServiceInfoUpdate.InteractWithDesktop(System.Boolean)">
+            <summary>
+            If true, the service can create or communicate with windows on the desktop. False as default
+            <param name="newInteracWithDesktop">new interact with desktop flag</param>
+            </summary>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfo.IWindowsServiceInfoUpdate.ServiceDependencies(System.Collections.Generic.List{System.String})">
+            <summary>
+            Replace service dependencies with new list
+            </summary>
+            <param name="newDepencencies">List of services names that must start before this service will start </param>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfo.IWindowsServiceInfoUpdate.RollbackOnError">
+            <summary>
+            Rollback all properties except user password when error occur.
+            </summary>
+            <returns>sss</returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfo.IWindowsServiceInfoUpdate.Cancel">
+            <summary>
+            Cancel updating proccess. No changes will be made.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfo.IWindowsServiceInfoUpdate.Apply">
+            <summary>
+            Apply updating proccess. All changes will be made. 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Continuous.WindowsService.Shell.Extensions.IWindowsServiceInfoExtensions">
+            <summary>
+                Extended WindowsServiceInfo with managing services functionality
+            </summary>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.IWindowsServiceInfoExtensions.Change">
+            <summary>
+                Start windows service modification proccess. To make changes perform Apply() method.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.IWindowsServiceInfoExtensions.Refresh">
+            <summary>
+                Refresh all data
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.IWindowsServiceInfoExtensions.WaitForState(Continuous.WindowsService.Model.Enums.WindowsServiceState)">
+            <summary>
+                Wait until service get expected state. TimeoutException is possible.
+            </summary>
+            <param name="state">expected state</param>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.IWindowsServiceInfoExtensions.Start(System.Boolean)">
+            <summary>
+                Start stopped windows service
+            </summary>
+            <param name="waitForState">wait until service start running</param>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.IWindowsServiceInfoExtensions.Stop(System.Boolean)">
+            <summary>
+                Stop running service
+            </summary>
+            <param name="waitForState">wait until service stopped</param>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.IWindowsServiceInfoExtensions.Pause(System.Boolean)">
+            <summary>
+                Pause running service
+            </summary>
+            <param name="waitForState">wait until service paused</param>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.IWindowsServiceInfoExtensions.Continue(System.Boolean)">
+            <summary>
+                Resume paused service
+            </summary>
+            <param name="waitForState">wait until service start running</param>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.IWindowsServiceInfoExtensions.ExecuteCommand(System.Int32)">
+            <summary>
+                Execute a custom command on the service. The value must be between 128 and 256, inclusive.
+            </summary>
+            <param name="commandCode">code which will be send to service</param>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.IWindowsServiceInfoExtensions.Exists">
+            <summary>
+                Check if service has not been removed
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.IWindowsServiceInfoExtensions.Uninstall">
+            <summary>
+                Uninstall this service
+            </summary>
+        </member>
+        <member name="T:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfoExtensions">
+            <summary>
+                Extended WindowsServiceInfo with managing services functionality
+            </summary>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfoExtensions.Change">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfoExtensions.Refresh">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfoExtensions.WaitForState(Continuous.WindowsService.Model.Enums.WindowsServiceState)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfoExtensions.Start(System.Boolean)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfoExtensions.Stop(System.Boolean)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfoExtensions.Pause(System.Boolean)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfoExtensions.Continue(System.Boolean)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfoExtensions.ExecuteCommand(System.Int32)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfoExtensions.Exists">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.Extensions.WindowsServiceInfoExtensions.Uninstall">
+            <inheritdoc />
+        </member>
+        <member name="T:Continuous.WindowsService.Shell.IWindowsServiceShell">
+            <summary>
+            Shell responisble for managing windows services
+            </summary>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.GetState(System.String)">
+            <summary>
+            Get windows service status
+            </summary>
+            <param name="serviceName">windows service name</param>
+            <returns></returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.Install(System.String,System.String)">
+            <summary>
+            Install windows service with basic parameters
+            </summary>
+            <param name="serviceName">windows service name</param>
+            <param name="fullServicePath">full service path to windows service executable file</param>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.Install(Continuous.WindowsService.Model.WindowsServiceConfiguration)">
+            <summary>
+            Install windows service with customizable configuration 
+            </summary>
+            <param name="config">customizable configuration for windows service</param>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.Update(System.String,Continuous.WindowsService.Model.WindowsServiceConfigurationForUpdate)">
+            <summary>
+            Update existing windows service with customizable configuration
+            </summary>
+            <param name="serviceName">windows service name</param>
+            <param name="config">customizable configuration for windows service.</param>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.Uninstall(System.String)">
+            <summary>
+            Uninstall windows service
+            </summary>
+            <param name="serviceName">windows service name</param>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.Stop(System.String)">
+            <summary>
+            Stop running windows service
+            </summary>
+            <param name="serviceName">windows service name</param>
+            <returns>true if service successfully stopped</returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.Start(System.String)">
+            <summary>
+            Start stopped windows service 
+            </summary>
+            <param name="serviceName">windows service name</param>
+            <returns>true if service successfully starded</returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.ChangeAccount(System.String,System.String,System.String,System.String)">
+            <summary>
+            Change windows service running user account
+            </summary>
+            <param name="serviceName">windows service name</param>
+            <param name="accountName">account name</param>
+            <param name="password">account password</param>
+            <param name="domain">account domain - leave '.' to use local domain</param>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.Get(System.String)">
+            <summary>
+            Get windows service
+            </summary>
+            <param name="serviceName">windows service name</param>
+            <returns>full information about windows service</returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.GetAll">
+            <summary>
+            Get all available windows services
+            </summary>
+            <returns>list of services</returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.Continue(System.String)">
+            <summary>
+            Resume paused service
+            </summary>
+            <param name="serviceName">windows service name</param>
+            <returns>true if service successfully resumed</returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.Pause(System.String)">
+            <summary>
+            Pause running service
+            </summary>
+            <param name="serviceName">windows service name</param>
+            <returns>true if service successfully paused</returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.WaitForState(System.String,Continuous.WindowsService.Model.Enums.WindowsServiceState,System.TimeSpan)">
+            <summary>
+            Wait until service get expected state. TimeoutException is possible.
+            </summary>
+            <param name="serviceName">windows service name</param>
+            <param name="state">expected state</param>
+            <param name="timeout">time before TimeoutException occur</param>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.WaitForState(System.String,Continuous.WindowsService.Model.Enums.WindowsServiceState)">
+            <summary>
+            Wait until service get expected state. TimeoutException is possible.
+            </summary>
+            <param name="serviceName">windows service name</param>
+            <param name="state">expected state</param>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.Exists(System.String)">
+            <summary>
+            Check if windows service with provided name is existing
+            </summary>
+            <param name="serviceName">windows service name</param>
+            <returns>true if service exists</returns>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.IWindowsServiceShell.ExecuteCommand(System.String,System.Int32)">
+            <summary>
+            Execute a custom command on the service. The value must be between 128 and 256, inclusive.
+            </summary>
+            <param name="serviceName">windows service name</param>
+            <param name="commandCode">code which will be send to service</param>
+        </member>
+        <member name="T:Continuous.WindowsService.Shell.WindowsServiceShell">
+            <summary>
+            Windows Service Shell implementation
+            </summary>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.#ctor">
+            <summary>
+            Windows service shell
+            </summary>
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.GetState(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.Install(System.String,System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.Install(Continuous.WindowsService.Model.WindowsServiceConfiguration)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.Update(System.String,Continuous.WindowsService.Model.WindowsServiceConfigurationForUpdate)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.Uninstall(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.Stop(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.Start(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.Continue(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.Pause(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.WaitForState(System.String,Continuous.WindowsService.Model.Enums.WindowsServiceState,System.TimeSpan)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.WaitForState(System.String,Continuous.WindowsService.Model.Enums.WindowsServiceState)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.Exists(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.ExecuteCommand(System.String,System.Int32)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.Get(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.GetAll">
+            <inheritdoc />
+        </member>
+        <member name="M:Continuous.WindowsService.Shell.WindowsServiceShell.ChangeAccount(System.String,System.String,System.String,System.String)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

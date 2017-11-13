@@ -1,0 +1,212 @@
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\ApplicationInsights.config
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\csc.exe
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\csc.exe.config
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\csc.rsp
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\csi.exe
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\csi.rsp
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\vbc.exe
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\vbc.exe.config
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\vbc.rsp
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.MVC.dll.config
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.MVC.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.MVC.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Antlr3.Runtime.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.Application.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Newtonsoft.Json.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Helpers.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Mvc.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Optimization.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Razor.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.WebPages.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\WebActivatorEx.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\WebGrease.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.Domain.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\AutoMapper.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.Application.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Helpers.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Mvc.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Optimization.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Razor.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.WebPages.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Newtonsoft.Json.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.Domain.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\AutoMapper.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\obj\Debug\Mundipagg.PontoDigital.MVC.csprojResolveAssemblyReference.cache
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\obj\Debug\Mundipagg.PontoDigital.MVC.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\obj\Debug\Mundipagg.PontoDigital.MVC.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.CrossCutting.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\SimpleInjector.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\SimpleInjector.Integration.Web.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\WebActivator.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.Infra.Data.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\CommonServiceLocator.SimpleInjectorAdapter.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\MongoDB.Driver.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\MongoDB.Driver.Core.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\MongoDB.Bson.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.CrossCutting.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.CrossCutting.dll.config
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\SimpleInjector.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\SimpleInjector.Integration.Web.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.Infra.Data.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\CommonServiceLocator.SimpleInjectorAdapter.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\MongoDB.Driver.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\MongoDB.Driver.Core.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\MongoDB.Bson.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\ApplicationInsights.config
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\csc.exe
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\csc.exe.config
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\csc.rsp
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\csi.exe
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\csi.rsp
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\System.AppContext.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\vbc.exe
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\vbc.exe.config
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\vbc.rsp
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\VBCSCompiler.exe
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.MVC.dll.config
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.MVC.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.MVC.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Antlr3.Runtime.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\AutoMapper.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.Web.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.Application.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.CrossCutting.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Newtonsoft.Json.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\SimpleInjector.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\SimpleInjector.Integration.Web.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Helpers.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Mvc.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Optimization.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Razor.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.WebPages.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.WebPages.Razor.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\WebActivator.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\WebActivatorEx.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\WebGrease.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.Domain.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\MongoDB.Bson.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\FluentValidation.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.Practices.ServiceLocation.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.Infra.Data.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\CommonServiceLocator.SimpleInjectorAdapter.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\MongoDB.Driver.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\MongoDB.Driver.Core.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.Application.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.CrossCutting.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.CrossCutting.dll.config
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\AutoMapper.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\SimpleInjector.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\SimpleInjector.Integration.Web.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Helpers.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Mvc.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Optimization.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.Razor.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.WebPages.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\System.Web.WebPages.Razor.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Antlr3.Runtime.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Newtonsoft.Json.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.AI.Web.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.Domain.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\MongoDB.Bson.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\FluentValidation.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Microsoft.Practices.ServiceLocation.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\Mundipagg.PontoDigital.Infra.Data.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\CommonServiceLocator.SimpleInjectorAdapter.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\MongoDB.Driver.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\MongoDB.Driver.Core.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\pt-br\System.Web.Helpers.resources.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\pt-br\System.Web.Mvc.resources.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\pt-br\System.Web.Optimization.resources.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\pt-br\System.Web.Razor.resources.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\pt-br\System.Web.WebPages.resources.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\obj\Debug\Mundipagg.PontoDigital.MVC.csprojResolveAssemblyReference.cache
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\obj\Debug\Mundipagg.PontoDigital.MVC.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.MVC\obj\Debug\Mundipagg.PontoDigital.MVC.pdb

@@ -1,0 +1,5 @@
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Solution.Presentation.ConsoleApp\bin\Debug\Mundipagg.PontoDigital.Solution.Presentation.ConsoleApp.exe.config
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Solution.Presentation.ConsoleApp\bin\Debug\Mundipagg.PontoDigital.Solution.Presentation.ConsoleApp.exe
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Solution.Presentation.ConsoleApp\bin\Debug\Mundipagg.PontoDigital.Solution.Presentation.ConsoleApp.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Solution.Presentation.ConsoleApp\obj\Debug\Mundipagg.PontoDigital.Solution.Presentation.ConsoleApp.exe
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Solution.Presentation.ConsoleApp\obj\Debug\Mundipagg.PontoDigital.Solution.Presentation.ConsoleApp.pdb

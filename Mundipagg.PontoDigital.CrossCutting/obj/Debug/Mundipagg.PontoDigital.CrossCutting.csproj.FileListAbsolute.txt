@@ -1,0 +1,64 @@
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.CrossCutting.dll.config
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.CrossCutting.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.CrossCutting.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\CommonServiceLocator.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\CommonServiceLocator.SimpleInjectorAdapter.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.Application.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.Domain.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.Infra.Data.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\SimpleInjector.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\AutoMapper.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\MongoDB.Driver.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\MongoDB.Bson.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.Application.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.Domain.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.Infra.Data.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\CommonServiceLocator.SimpleInjectorAdapter.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\SimpleInjector.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\AutoMapper.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\MongoDB.Driver.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\MongoDB.Bson.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\obj\Debug\Mundipagg.PontoDigital.CrossCutting.csprojResolveAssemblyReference.cache
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\obj\Debug\Mundipagg.PontoDigital.CrossCutting.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\obj\Debug\Mundipagg.PontoDigital.CrossCutting.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\System.Web.Http.Common.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\System.Web.Http.Common.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.CrossCutting.dll.config
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.CrossCutting.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.CrossCutting.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\CommonServiceLocator.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\CommonServiceLocator.SimpleInjectorAdapter.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.Application.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.Domain.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.Infra.Data.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\SimpleInjector.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\System.Web.Http.Common.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\MongoDB.Bson.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\FluentValidation.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\AutoMapper.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\MongoDB.Driver.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\MongoDB.Driver.Core.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.Application.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.Domain.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Mundipagg.PontoDigital.Infra.Data.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\CommonServiceLocator.SimpleInjectorAdapter.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\SimpleInjector.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\System.Web.Http.Common.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\MongoDB.Bson.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\FluentValidation.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\AutoMapper.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\MongoDB.Driver.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\bin\Debug\MongoDB.Driver.Core.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\obj\Debug\Mundipagg.PontoDigital.CrossCutting.csprojResolveAssemblyReference.cache
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\obj\Debug\Mundipagg.PontoDigital.CrossCutting.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.CrossCutting\obj\Debug\Mundipagg.PontoDigital.CrossCutting.pdb

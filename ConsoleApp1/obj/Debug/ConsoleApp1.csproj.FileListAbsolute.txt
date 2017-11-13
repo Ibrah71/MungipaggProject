@@ -1,0 +1,31 @@
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\System.Web.Helpers.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\System.Web.Mvc.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\System.Web.Razor.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\System.Web.WebPages.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\System.Web.Helpers.dll
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\System.Web.Mvc.dll
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\System.Web.Razor.dll
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\System.Web.WebPages.dll
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\System.Web.WebPages.Razor.dll
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\c#\Mundipagg.PontoDigital.Solution\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

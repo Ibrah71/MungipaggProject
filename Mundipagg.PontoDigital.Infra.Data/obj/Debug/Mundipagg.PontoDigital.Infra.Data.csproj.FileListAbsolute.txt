@@ -1,0 +1,30 @@
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\Mundipagg.PontoDigital.Infra.Data.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\Mundipagg.PontoDigital.Infra.Data.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\MongoDB.Bson.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\MongoDB.Driver.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\Mundipagg.PontoDigital.Domain.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\Mundipagg.PontoDigital.Domain.pdb
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\MongoDB.Bson.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\MongoDB.Driver.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\obj\Debug\Mundipagg.PontoDigital.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\obj\Debug\Mundipagg.PontoDigital.Infra.Data.dll
+C:\Users\marry\Documents\Visual Studio 2017\Projects\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\obj\Debug\Mundipagg.PontoDigital.Infra.Data.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\Mundipagg.PontoDigital.Infra.Data.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\Mundipagg.PontoDigital.Infra.Data.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\MongoDB.Bson.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\MongoDB.Driver.Core.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\MongoDB.Driver.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\Mundipagg.PontoDigital.Domain.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\FluentValidation.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\Mundipagg.PontoDigital.Domain.pdb
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\MongoDB.Bson.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\MongoDB.Driver.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\MongoDB.Driver.Core.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\bin\Debug\FluentValidation.xml
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\obj\Debug\Mundipagg.PontoDigital.Infra.Data.csprojResolveAssemblyReference.cache
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\obj\Debug\Mundipagg.PontoDigital.Infra.Data.dll
+C:\c#\Mundipagg.PontoDigital.Solution\Mundipagg.PontoDigital.Infra.Data\obj\Debug\Mundipagg.PontoDigital.Infra.Data.pdb
