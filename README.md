@@ -5,9 +5,9 @@ Controle de Acesso com Cartão RFID, após encostar o cartão no leitor de cart�
 os dados são escritos em um arquivo.json na própria raspberry e em seguiada enviados para o banco de dados remoto MongoDb.
 
 ## OVERVIEW:
-O sensor RFID MFRC522 foi conectado a entrada GPIO da placa raspberry pi 3  a programação para comunicação com o sensor RFID foi feita
-em python. A placa raspberry pi 3 envia os dados lido pelo sensor RFID através da linguagem python para o banco de dados mongoDb remoto
-a aplicação mvc manipula o banco de dados mongoDb
+O sensor RFID MFRC522 foi conectado a entrada GPIO da placa raspberry pi 3,  a programação para comunicação com o sensor RFID foi feita
+em python. A placa raspberry pi 3 envia os dados lido pelo sensor RFID através da linguagem python para o banco de dados mongoDb remoto.
+A aplicação mvc manipula o banco de dados mongoDb
 
 ## Requisito para o projeto funcionar:
 
