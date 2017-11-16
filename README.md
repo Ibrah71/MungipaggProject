@@ -23,33 +23,26 @@ A rede seria para a transmissão dos dados lidos pelo sensor e poisteriomente en
 
 ______________________________________________________________________________________________________________________________
 
-CAMADAS DO PROJETO MVC
+## Camadas do projeto MVC
 
-1 Presentation:
+- #### 1. Presentation:
+   - **Mundipagg.PontoDigital.Application:** Fara Download em horário agendado do arquivo.json que está na raspbery pi e que contém o histórico de todos os dados lidos pelo sensor.
+   -  **Mundipagg.PontoDigital.MVC:** Faz a interface entre Usuário e a camada de Aplicação, exibi na tela as requisições do usuario e os resultados da requisição.
 
-1.1: Mundipagg.PontoDigital.Application: Fara Download em horário agendado do arquivo.json que está na raspbery pi e que contém o histórico de todos os dados lidos pelo sensor.
+- ####2. Service:
+   - **Mundipagg.PontoDigital.Services.WebApi:** Essa camada seria para utilizar um WPF que consumiria os dados do serviço, mas infelizmente não tive tempo criar o projeto WPF.
 
-1.2: Mundipagg.PontoDigital.MVC: Faz a interface entre Usuário e a camada de Aplicação, exibi na tela as requisições do usuario e os resultados da requisição.
+- ####3. Aplication:
+   - **Mundipagg.PontoDigital.Application:** Interface entre  o projeto MVC com Repositorio e dominio.
+   - **Mundipagg.PontoDigital.Application.Teste:** Projeto de teste que irá testar as validações da entidade funcionário.
 
-2 Service:
+- ####4. Dominio:
+   - **Mundipagg.PontoDigital.Domain:** Contém as entidades e as regras de negócio.
 
-2.1: Mundipagg.PontoDigital.Services.WebApi: Essa camada seria para utilizar um WPF que consumiria os dados do serviço, mas infelizmente não tive tempo criar o projeto WPF.
+- ####5. Infra:
+   - **Mundipagg.PontoDigital.CrsossCutting:** O projeto utiliza o framework SimpleInjector e realiza a injeção de dependência no projeto MVC.
+  - **Mundipagg.PontoDigital.Infra.Data:** Onde as operações de CRUD realmente acontecem.
 
-3 Aplication:
-
-3.1 Mundipagg.PontoDigital.Application: Interface entre  o projeto MVC com Repositorio e dominio.
-
-3.2 Mundipagg.PontoDigital.Application.Teste: Projeto de teste que irá testar as validações da entidade funcionário.
-
-4 Dominio:
-
-4.1 Mundipagg.PontoDigital.Domain : Contém as entidades e as regras de negócio.
-
-5 Infra:
-
-5.1 Mundipagg.PontoDigital.CrsossCutting: O projeto utiliza o framework SimpleInjector e realiza a injeção de dependência no projeto MVC.
-
-5.2 Mundipagg.PontoDigital.Infra.Data: Onde as operações de CRUD realmente acontecem.
 
 
 
