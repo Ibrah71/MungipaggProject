@@ -12,6 +12,11 @@ Este Kit módulo leitor RFID baseado no chip MFRC522 da empresa NXP é altamente
 muito usado no mercado.Este Kit módulo leitor RFID possui as ferramentas que você precisa para um projeto de controle de acesso ou sistemas de segurançaa um ótimo preço. As tags (ou etiquetas) RFID, podem conter vários dados sobre o proprietário do cartão, como nome e endereço, no caso de produtos, informações sobre procedência e data de validade, apenas para citar alguns exemplos.
 
 - **Raspberry pi 3:**
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/19213840/32895760-4c4186ba-cac8-11e7-8af1-15723f9b7ad2.jpg">
+</p>
+
 Um microcomputador com pinos  GPIO (General Purpose Input/Output são basicamente portas programáveis de entrada e saída de dados)
 onde é possivel conectar sensores como o utilizado no projeto, o sensor MFRC522. O raspberry utilizado no projeto roda o sistema Raspian
 
