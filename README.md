@@ -7,6 +7,11 @@ os dados são escritos em um arquivo.json na própria raspberry e em seguiada en
 ## Requisito para o projeto funcionar:
 
 - **Sensor RFID:**
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/19213840/32897154-001294c4-cacc-11e7-8714-43241c6e79b2.jpg">
+</p>
+
 Este Kit módulo leitor RFID baseado no chip MFRC522 da empresa NXP é altamente utilizado em comunicação sem contato a uma frequência de 
 13,56MHz. Este chip, de baixo consumo e pequeno tamanho, permite sem contato ler e escrever em cartões que seguem o padrão Mifare, 
 muito usado no mercado.Este Kit módulo leitor RFID possui as ferramentas que você precisa para um projeto de controle de acesso ou sistemas de segurançaa um ótimo preço. As tags (ou etiquetas) RFID, podem conter vários dados sobre o proprietário do cartão, como nome e endereço, no caso de produtos, informações sobre procedência e data de validade, apenas para citar alguns exemplos.
