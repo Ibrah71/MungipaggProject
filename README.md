@@ -4,6 +4,8 @@ Controle de Acesso com Cartão RFID, após encostar o cartão no leitor de cart�
 os dados são escritos em um arquivo.json na própria raspberry e em seguiada enviados para o banco de dados remoto MongoDb.
 
 
+## Requisito para o projeto funcionar:
+
 1 Sensor RFID:
 Este Kit módulo leitor RFID baseado no chip MFRC522 da empresa NXP é altamente utilizado em comunicação sem contato a uma frequência de 
 13,56MHz. Este chip, de baixo consumo e pequeno tamanho, permite sem contato ler e escrever em cartões que seguem o padrão Mifare, 
