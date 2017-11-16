@@ -1,8 +1,13 @@
 # MungipaggProject
 
+## GOALS:
 Controle de Acesso com Cartão RFID, após encostar o cartão no leitor de cartões que estará conectado a entrada GPIO na raspberry pi,
 os dados são escritos em um arquivo.json na própria raspberry e em seguiada enviados para o banco de dados remoto MongoDb.
 
+## OVERVIEW:
+O sensor RFID MFRC522 foi conectado a entrada GPIO da placa raspberry pi 3  a programação para comunicação com o sensor RFID foi feita
+em python. A placa raspberry pi 3 envia os dados lido pelo sensor RFID através da linguagem python para o banco de dados mongoDb remoto
+a aplicação mvc manipula o banco de dados mongoDb
 
 ## Requisito para o projeto funcionar:
 
@@ -22,8 +27,8 @@ muito usado no mercado.Este Kit módulo leitor RFID possui as ferramentas que vo
   <img width="460" height="300" src="https://user-images.githubusercontent.com/19213840/32895760-4c4186ba-cac8-11e7-8af1-15723f9b7ad2.jpg">
 </p>
 
-Um microcomputador com pinos  GPIO (General Purpose Input/Output são basicamente portas programáveis de entrada e saída de dados)
-onde é possivel conectar sensores como o utilizado no projeto, o sensor MFRC522. O raspberry utilizado no projeto roda o sistema Raspian
+Um microcomputador com pinos  GPIO (General Purpose Input/Output são basicamente portas programáveis de entrada e saída de dados).O
+GPIO foi utilizado conectar o sensor MFRC522 e a linguagem escolhida para comunicar o sensor foi python, o raspberry pi 3 possui sistema Raspian.
 
 - **3 Notebook:**
 Será onde o banco de dados MongoDb estara rodando e onde a aplicação AspNetMvc estara rodando
